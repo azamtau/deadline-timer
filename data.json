@@ -1,0 +1,30 @@
+{
+	"homeworks": [
+		{
+			"name": "HW1",
+			"deadline": "February 23, 2020 23:59:00",
+			"points": 10
+		},
+		{
+			"name": "HW2",
+			"deadline": "February 23, 2020 23:59:00",
+			"points": 15
+		},
+		{
+			"name": "HW3",
+			"deadline": "April 30, 2020 23:59:00",
+			"points": 20
+		},
+		{
+			"name": "HW4",
+			"deadline": "May 22, 2020 23:59:00",
+			"points": 40
+		},
+		{
+			"name": "HW5",
+			"deadline": "May 24, 2020 23:59:00",
+			"points": 30
+		}
+
+	]
+}
