@@ -1,10 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Vampiro+One&display=swap');
+
 body {
-	padding: 3vw;
 	font-family: 'Roboto Mono', monospace;
+	background: #ECD9D9;
+	font-style: normal;
+	color: #040404;;
 }
 
 p {
 	font-weight: 100;
+}
+
+h1 {
+	font-weight: 300;
+	font-size: 3.5rem;
+	line-height: 56px;	
+	font-family: 'Vampiro One';
+}
+
+.container {
+	padding: 1rem;
 }
 
 .parent {
@@ -14,16 +29,24 @@ p {
 }
 
 .parent > div {
-	background: red;
-	border: 1px solid black;
 } 
 
+.right-top {
+	align-self: center;
+	justify-self: end;
+	padding: 3rem 2rem 3rem 2rem;
+	background: #fff;
+  	box-shadow: 8px 8px 0px #131111;
+  	border-radius: 5px;
+}
+
 .hw-item {
-	background: #B0FFA3;
+	background: #B1FCCB;
 	border: 5px solid #000000;
 	box-shadow: 8px 8px 0px #000000;
 	border-radius: 5px;
 	margin-top: 2rem;
+	padding: 0.5rem;
 }
 
 .btn {
